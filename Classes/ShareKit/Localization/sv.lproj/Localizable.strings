@@ -1,0 +1,91 @@
+"Email" = "Email";
+"Username" = "Användarnamn";
+"Password" = "Lösenord";
+"Follow %@" = "Följ %@";
+"Continue" = "Fortsätt";
+"Share" = "Dela";
+"More..." = "Mer...";
+"Cancel" = "Avbryt";
+"Slug" = "Slug";
+"Private" = "Privat";
+"Public" = "Publik";
+"Caption" = "Caption";
+"Title" = "Titel";
+"Tags" = "Taggar";
+"Close" = "Stäng";
+"Notes" = "Noteringar";
+"Note" = "Notering";
+"Share" = "Dela";
+"Shared" = "Delad";
+"Edit" = "Avbryt";
+"Actions" = "Åtgärder";
+"Services" = "Services";
+"Send to %@" = "Skicka till %@";
+"Copy" = "Kopiera";
+"Copied!" = "Kopierad!";
+"Saving to %@" = "Sparar %@";
+"Saved!" = "Sparad!"; 
+"Offline" = "Offline";
+"Error" = "Fel";
+"Login" = "Login";
+"Logging In..." = "Loggar in...";
+"Login Error" = "Loginfel";
+"Connecting..." = "Ansluter...";
+
+"Shortening URL..." = "Förkortar URL...";
+"Shorten URL Error" = "Fel vid URL-förkortning Error";
+"We could not shorten the URL." = "Vi kunde inte förkorta URL:en.";
+
+"Create a free account at %@" = "Skapa ett gratis konto på %@";
+"Create an account at %@" = "Skapa ett konto på %@";
+
+"Send to Twitter" = "Skicka till Twitter";
+
+"Message is too long" = "Meddelandet är för långt";
+"Twitter posts can only be 140 characters in length." = "Twitter poster kan max vara 140 tecken långa.";
+"Message is empty" = "Meddelandet är tomt";
+"You must enter a message in order to post." = "Du måste mata in ett meddelande för att kunna posta.";
+
+"Enter your message:" = "Mata in ditt meddelande:";
+
+"Invalid email or password." = "Fel användarnamn eller lösenord";
+"The service encountered an error. Please try again later." = "Tjänsten stötte på ett fel. Var vänlig försök igen senare.";
+"There was a sending your post to Tumblr." = "There was a sending your post to Tumblr.";
+
+"There was an error saving to Pinboard" = "There was an error saving to Pinboard";
+
+"Sorry, Instapaper did not accept your credentials. Please try again." = "Sorry, Instapaper did not accept your credentials. Please try again.";
+"Sorry, Instapaper encountered an error. Please try again." = "Sorry, Instapaper encountered an error. Please try again.";
+"There was a problem saving to Instapaper." = "There was a problem saving to Instapaper.";
+
+"Incorrect username and password" = "Incorrect username and password";
+"There was an error logging into Google Reader" = "There was an error logging into Google Reader";
+"There was a problem authenticating your account." = "There was a problem authenticating your account.";
+"There was a problem saving your note." = "There was a problem saving your note.";
+
+"There was a problem saving to Delicious." = "There was a problem saving to Delicious.";
+
+"Open in Safari" = "Öppna i Safari";
+"Attached: %@" = "Attached: %@";
+
+"You must be online to login to %@" = "Du måste vara online för att logga in på %@";
+
+"Auto Share" = "Auto Share";
+"Enable auto share to skip this step in the future." = "Enable auto share to skip this step in the future.";
+
+"You must be online in order to share with %@" = "You must be online in order to share with %@";
+"There was an error while sharing" = "There was an error while sharing";
+
+"Could not authenticate you. Please relogin." = "Kunde inte autentisera dig. Försök igen.";
+"There was a problem requesting authorization from %@" = "Det inträffade ett problem vid autentisering med %@";
+"Request Error" = "Request Error";
+"There was an error while sharing" = "There was an error while sharing";
+
+"Authorize Error" = "Authorize Error";
+"There was an error while authorizing" = "There was an error while authorizing";
+
+"Authenticating..." = "Authenticating...";
+"There was a problem requesting access from %@" = "There was a problem requesting access from %@";
+
+"Access Error" = "Access Error";
+"There was an error while sharing" = "There was an error while sharing";
